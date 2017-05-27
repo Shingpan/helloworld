@@ -1,7 +1,3 @@
-# helloworl
-shingpan
-welcome to github
-have a good time
 ////////////////////////////////////////////////////////////////////////////////
 //                                                                            //
 //            Copyright (C) 2003-2007, Coolsand Technologies, Inc.            //
