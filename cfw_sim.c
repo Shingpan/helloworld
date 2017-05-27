@@ -45,7 +45,7 @@ CFW_PROFILE nMEProfileSIM =
     19,
     {
         0xFF,
-        0xFF,
+        0x0F,
         0xFF,
         0x7F,
         0x00,
