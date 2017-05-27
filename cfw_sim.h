@@ -12,6 +12,7 @@ extern bool sxs_UsimSupported(VOID);
 UINT32 CFW_SimSetMeProfile(UINT8* pProfile, UINT8 Length);
 UINT32 CFW_SimTest(UINT8 Index);
 
+
 VOID cfw_PLMNtoBCD(UINT8 *pIn, UINT8 *pOut, UINT8 *nInLength);
 VOID cfw_BCDtoPLMN(UINT8 *pIn, UINT8 *pOut, UINT8 nInLength);
 VOID cfw_IMSItoASC(UINT8 *InPut, UINT8 *OutPut, UINT8 *OutLen);
