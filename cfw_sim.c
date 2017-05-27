@@ -41,7 +41,7 @@ extern CFW_SIMSTATUS g_cfw_sim_status[CFW_SIM_COUNT] ;
 
 CFW_PROFILE nMEProfileSIM =
 {
-    0x07,
+    0xe7,
     19,
     {
         0xFF,
